@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to your Lovable project - GreenGrow Organics
 
 This project was built with [Lovable](https://lovable.dev).
 
